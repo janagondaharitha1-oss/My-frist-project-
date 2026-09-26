@@ -1,6 +1,1 @@
-# My-frist-project-
-# include<studio.h>
-int main(void){
-printf(%d/n,"hello world");
-  {
-return 0;
+This is my first programming project. I am learning C programming and practicing basic programs.and I am also learning python.
